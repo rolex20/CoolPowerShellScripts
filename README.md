@@ -1,2 +1,3 @@
 # CoolPowerShellScripts
-Useful powershell scripts
+- Useful powershell scripts
+- See each directory for additional information on each one
